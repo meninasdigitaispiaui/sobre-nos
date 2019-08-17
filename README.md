@@ -48,4 +48,4 @@
 * [GitHub]() | [Instagram]() | [Twitter]()
 
 ## redes sociais do MD/PI | MD/PI's social networks
-* [GitHub](https://github.com/meninasdigitaispiaui) | [Instagram](https://instagram.com/meninasdigitaispiaui) | [E-mail](mailto: meninasdigitaispiaui@gmail.com)
+* [GitHub](https://github.com/meninasdigitaispiaui) | [Instagram](https://instagram.com/meninasdigitaispiaui) | [E-mail](mailto:meninasdigitaispiaui@gmail.com)
