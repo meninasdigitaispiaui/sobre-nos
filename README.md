@@ -6,6 +6,8 @@
 **Meninas Digitais Piauí** is a group of women who study and/or teach Computer Science at Universidade Federal do Piauí (**UFPI**). Here are linked some of the members' social networks.
 
 ## quem somos? | who are we?
+<!--:heavy_check_mark: é o emoji para quem já colocou todas as redes sociais corretamente-->
+
 ### Aline Montenegro
 * [GitHub]() | [Instagram]() | [Twitter]()
 ### Ana Carolina Dias :heavy_check_mark:
