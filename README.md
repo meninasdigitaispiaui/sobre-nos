@@ -1,2 +1,46 @@
-# sobrenos
-Sobre as participantes do Meninas Digitais Piauí! :blush:
+# Meninas Digitais Piauí
+
+## sobre nós | about us
+**Meninas Digitais Piauí** é um grupo de alunas e professoras de Ciência da Computação da Universidade Federal do Piauí (**UFPI**). Aqui estão linkadas as redes sociais de algumas de nossas integrantes.
+
+**Meninas Digitais Piauí** is a group of women who study and/or teach Computer Science at Universidade Federal do Piauí (**UFPI**). Here are linked some members' social networks.
+
+## quem somos? | who are we?
+### Aline Montenegro
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Ana Carolina Dias
+* [GitHub](https://github.com/linasdias) | [Instagram](https://instagram.com/linasdias) | [Medium](https://medium.com/@carolinadias4567) | [Twitter](https://twitter.com/linasdias) | [YouTube](https://www.youtube.com/channel/UCzdN_GOPp7SFm6Yp7L2qvTg)
+### Ana Paula Mendes
+* [Site](https://anapaulamendes.github.io/) | [GitHub](https://github.com/anapaulamendes) | [Instagram](https://instagram.com/ananoterminal) | [Twitter](https://twitter.com/ananoterminal)
+### Profa. Keylla Urtiga
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Ana Letícia
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Elúvya Piauilino
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Jhoisnayra
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Krisna
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Sarah
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Milena Arysa
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Maria Clara
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Gisele Ribeiro
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Josiele Ribeiro
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Larissa Brasil
+* [GitHub]() | [Instagram]() | [Twitter]()
+### Natasha Rebelo
+* [GitHub]() | [Instagram]() | [Twitter]()
+###
+* [GitHub]() | [Instagram]() | [Twitter]()
+###
+* [GitHub]() | [Instagram]() | [Twitter]()
+###
+* [GitHub]() | [Instagram]() | [Twitter]()
+###
+* [GitHub]() | [Instagram]() | [Twitter]()
