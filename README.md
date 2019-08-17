@@ -1,9 +1,9 @@
 # Meninas Digitais Piauí
 
 ## sobre nós | about us
-**Meninas Digitais Piauí** é um grupo de alunas e professoras de Ciência da Computação da Universidade Federal do Piauí (**UFPI**). Aqui estão linkadas algumas redes sociais de nossas integrantes.
+**Meninas Digitais Piauí** é um grupo de alunas e professoras de Ciência da Computação/Engenharias da Universidade Federal do Piauí (**UFPI**). Aqui estão linkadas algumas redes sociais de nossas integrantes.
 
-**Meninas Digitais Piauí** is a group of women who study and/or teach Computer Science at Universidade Federal do Piauí (**UFPI**). Here are linked some of the members' social networks.
+**Meninas Digitais Piauí** is a group of women who study and/or teach Computer Science/Engineering at Universidade Federal do Piauí (**UFPI**). Here are linked some of the members' social networks.
 
 ## quem somos? | who are we?
 <!--:heavy_check_mark: é o emoji para quem já colocou todas as redes sociais corretamente-->
