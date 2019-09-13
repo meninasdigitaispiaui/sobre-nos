@@ -11,7 +11,7 @@
 ### Aline Montenegro
 * [GitHub]() | [Instagram]() | [Twitter]()
 ### Ana Carolina Dias :heavy_check_mark:
-* [GitHub](https://github.com/linasdias) | [Instagram](https://instagram.com/linasdias) | [Medium](https://medium.com/@carolinadias4567) | [Twitter](https://twitter.com/linasdias) | [YouTube](https://www.youtube.com/channel/UCzdN_GOPp7SFm6Yp7L2qvTg)
+* [GitHub](https://github.com/linasdias) | [Instagram](https://instagram.com/linawluvv) | [Medium](https://medium.com/@carolinadias4567) | [Twitter](https://twitter.com/linawluv) | [YouTube](https://www.youtube.com/channel/UCzdN_GOPp7SFm6Yp7L2qvTg)
 ### Ana Paula Mendes :heavy_check_mark:
 * [Site](https://anapaulamendes.github.io/) | [GitHub](https://github.com/anapaulamendes) | [Instagram](https://instagram.com/ananoterminal) | [Twitter](https://twitter.com/ananoterminal) | [Medium](https://medium.com/@anapaula_mendes)
 ### Profa. Keylla Urtiga
