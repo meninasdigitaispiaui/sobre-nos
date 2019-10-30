@@ -1,10 +1,6 @@
 # Meninas Digitais Piauí
 
-[![GitHub stars](https://img.shields.io/github/stars/meninasdigitaispiaui/sobre-nos.svg?style=social&label=Star)](https://github.com/meninasdigitaispiaui/sobre-nos)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/minasdigitaispi.svg?style=social)](https://twitter.com/minasdigitaispi)
-
-![GitHub followers](https://img.shields.io/github/followers/meninasdigitaispiaui.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/meninasdigitaispiaui/sobre-nos.svg?style=social&label=Star)](https://github.com/meninasdigitaispiaui/sobre-nos) [![Twitter Follow](https://img.shields.io/twitter/follow/minasdigitaispi.svg?style=social)](https://twitter.com/minasdigitaispi) ![GitHub followers](https://img.shields.io/github/followers/meninasdigitaispiaui.svg?style=social&label=Follow)
 
 
 ## sobre nós | about us
